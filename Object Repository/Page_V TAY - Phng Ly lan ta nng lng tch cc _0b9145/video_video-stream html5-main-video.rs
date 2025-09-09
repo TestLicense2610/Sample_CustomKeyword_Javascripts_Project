@@ -1,0 +1,98 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>video_video-stream html5-main-video</name>
+   <tag></tag>
+   <elementGuidId>49f035c4-21fa-46e3-85f3-505cff2c0037</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>.video-stream</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//*[@class and contains(concat(' ', normalize-space(@class), ' '), ' video-stream ')]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>video</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>video</value>
+      <webElementGuid>aef5479b-182b-401e-8f42-1567ca4da990</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tabindex</name>
+      <type>Main</type>
+      <value>-1</value>
+      <webElementGuid>98eb756a-86da-4def-9f71-6c5f9b239b7b</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>video-stream html5-main-video</value>
+      <webElementGuid>f5bbb6cf-f339-4f4f-9ab8-696a43dddcf9</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>controlslist</name>
+      <type>Main</type>
+      <value>nodownload</value>
+      <webElementGuid>bc840a57-1b97-4ca3-b6e8-c35187528873</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>src</name>
+      <type>Main</type>
+      <value>blob:https://www.youtube.com/66552d87-5f8a-4946-9155-971c123390f9</value>
+      <webElementGuid>bc1dbf19-3b2e-468a-9375-f321c54108c2</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>parent</name>
+      <type>Main</type>
+      <value>md5.v1-e5df0d5880409add1bb95e4ee7d5fb6a</value>
+      <webElementGuid>39b9d786-76ef-4c72-bcbd-fe18506d0e57</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>//*[@class and contains(concat(' ', normalize-space(@class), ' '), ' video-stream ')]</value>
+      <webElementGuid>844f8c14-84cf-4bcd-9719-0b6d26bbdae0</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//*[@class and contains(concat(' ', normalize-space(@class), ' '), ' video-stream ')]</value>
+      <webElementGuid>22004066-e66e-4f39-9f61-eff14a61f941</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//video[@src = 'blob:https://www.youtube.com/66552d87-5f8a-4946-9155-971c123390f9']</value>
+      <webElementGuid>92710751-0a5f-4624-aabb-3ea38371f913</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

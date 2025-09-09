@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>SetText_CustomKeywords_Sample_TC</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>4ed3a26b-32e4-4181-9a4d-6db8ac39c6fb</testCaseGuid>
+</TestCaseEntity>

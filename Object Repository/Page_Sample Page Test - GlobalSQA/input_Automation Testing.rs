@@ -1,0 +1,114 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>input_Automation Testing</name>
+   <tag></tag>
+   <elementGuidId>7409a929-b5f6-46e7-ba4a-21a7eca9af29</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>[value=&quot;Automation\ Testing&quot;]</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//*[@value = 'Automation Testing']</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>internal:label=&quot;Automation Testing&quot;i</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>input</value>
+      <webElementGuid>e56fcec3-ed8f-4feb-a575-1fca72faee63</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>id</name>
+      <type>Main</type>
+      <value>g2599-expertise-AutomationTesting</value>
+      <webElementGuid>640c018f-c9c6-4347-aff8-30ab30277a00</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>data-wp-on--change</name>
+      <type>Main</type>
+      <value>actions.onMultipleFieldChange</value>
+      <webElementGuid>128f2aa7-fc3a-4048-8aa3-56940793074d</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>type</name>
+      <type>Main</type>
+      <value>checkbox</value>
+      <webElementGuid>ba21172c-0348-43b3-abea-c45bba586102</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>name</name>
+      <type>Main</type>
+      <value>g2599-expertise[]</value>
+      <webElementGuid>e50810f6-dc97-49cd-bd39-3cebfa42197e</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>value</name>
+      <type>Main</type>
+      <value>Automation Testing</value>
+      <webElementGuid>13842dfa-6f41-4680-8ac3-dd2ad14d9a4d</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>checkbox-multiple  grunion-field</value>
+      <webElementGuid>ce5b8313-e4e7-453b-a006-583e36014e02</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>parent</name>
+      <type>Main</type>
+      <value>md5.v1-c68144faa12fff65443c94a137dd8cfb</value>
+      <webElementGuid>beaad481-5af3-41a5-92a6-92d98a2cb4e9</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>//*[@value = 'Automation Testing']</value>
+      <webElementGuid>0ac8190f-354e-4375-97b6-bbedd8eeb0cb</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//*[@value = 'Automation Testing']</value>
+      <webElementGuid>7a0f5101-b1fe-4a67-acfa-0c3df2ac055f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//input[@id = 'g2599-expertise-AutomationTesting' and @type = 'checkbox' and @name = 'g2599-expertise[]']</value>
+      <webElementGuid>f52a41c5-a999-471f-86db-016a5ecdaaaa</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>
