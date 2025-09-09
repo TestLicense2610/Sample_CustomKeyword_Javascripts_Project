@@ -1,0 +1,106 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>input_Retail  e-Commerce</name>
+   <tag></tag>
+   <elementGuidId>80b7b764-4f43-4503-90e0-2e053f6363fd</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//*[@id = 'retail-e-commerce']</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>#retail-e-commerce</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>internal:label=&quot;Retail &amp; e-Commerce&quot;i</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>input</value>
+      <webElementGuid>e6e4769c-afdc-4e2f-9ad5-8e1fd7495798</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>relative inline-block border-solid mt-[6px] border-1 border-dark300 w-[17rem] h-[17rem] cursor-pointer appearance-none rounded-[2rem] checked:bg-blue300 checked:border-dark300 before:content-['✔'] before:text-[14rem] before:text-white before:opacity-0 before:transition-opacity before:duration-200 before:absolute before:top-1/2 before:left-1/2 before:translate-x-[-50%] before:translate-y-[-50%] before:opacity-0 checked:before:opacity-100</value>
+      <webElementGuid>a26a1d6f-526b-4440-bfe2-4ba37f0715ff</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>type</name>
+      <type>Main</type>
+      <value>checkbox</value>
+      <webElementGuid>76e1a62b-cc0a-4bca-9675-ed3885635cbb</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>id</name>
+      <type>Main</type>
+      <value>retail-e-commerce</value>
+      <webElementGuid>5097e9e5-3d58-4ed4-8865-201674af7302</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>name</name>
+      <type>Main</type>
+      <value>retail-e-commerce</value>
+      <webElementGuid>bd9f157c-307d-432f-b45f-ef21dd3cf900</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>value</name>
+      <type>Main</type>
+      <value>Retail &amp; e-Commerce</value>
+      <webElementGuid>fcad45e4-f4f6-4824-ab57-e5fbefccf13d</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>parent</name>
+      <type>Main</type>
+      <value>md5.v1-d32124cb948d2b6334ae1e22f502d163</value>
+      <webElementGuid>8b41557d-1962-405f-845f-cfe56b29fda0</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>//*[@id = 'retail-e-commerce']</value>
+      <webElementGuid>2715d59c-ac72-4cf5-92f3-3f5df87fc34c</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//*[@id = 'retail-e-commerce']</value>
+      <webElementGuid>26131c9c-8e7d-4740-9fa2-954d10137476</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//input[@type = 'checkbox' and @id = 'retail-e-commerce' and @name = 'retail-e-commerce']</value>
+      <webElementGuid>04537797-f35f-4eed-bc92-773a246c48b6</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

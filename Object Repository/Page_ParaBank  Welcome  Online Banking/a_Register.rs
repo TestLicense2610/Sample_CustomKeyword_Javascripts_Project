@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>a_Register</name>
+   <tag></tag>
+   <elementGuidId>deb6b69e-44f3-46e8-a47b-e443bc7a8b89</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//*[(name() = 'p') and (position() = 3)]//a</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>p:nth-child(3) a</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>internal:role=link[name=&quot;Register&quot;i]</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>a</value>
+      <webElementGuid>2e6e1469-e383-4b71-864c-e6dc6225c1cd</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>href</name>
+      <type>Main</type>
+      <value>register.htm;jsessionid=8DFD9F66E5595A3AD81DEC7AC00E1E2C</value>
+      <webElementGuid>bc59e3b6-0137-40c6-b074-9db08ad7f9d4</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Register</value>
+      <webElementGuid>9b8341fb-3420-4f57-9800-b3c46f8cc6a5</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>parent</name>
+      <type>Main</type>
+      <value>md5.v1-b292da12c31e41e95e0ee83de63331ef</value>
+      <webElementGuid>2dcd8643-115c-4fa1-8561-6d29646a7132</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>//*[(name() = 'p') and (position() = 3)]//a</value>
+      <webElementGuid>13804c79-9155-430f-86c3-596a41f817cf</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//*[(name() = 'p') and (position() = 3)]//a</value>
+      <webElementGuid>ce9adad6-f051-470c-b444-615a0fc30f4f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//a[@href = 'register.htm;jsessionid=8DFD9F66E5595A3AD81DEC7AC00E1E2C' and (text() = 'Register' or . = 'Register')]</value>
+      <webElementGuid>0c15aeb1-066d-4cb1-b963-0d94ccf044f9</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

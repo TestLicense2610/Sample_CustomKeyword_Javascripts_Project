@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>a_Products</name>
+   <tag></tag>
+   <elementGuidId>0e9fc53a-e960-4dc1-9f9a-f48375ee49bd</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//*[@class and contains(concat(' ', normalize-space(@class), ' '), ' leftmenu ')]//*[@href = 'http://www.parasoft.com/jsp/products.jsp']</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>.leftmenu [href=&quot;http\:\/\/www\.parasoft\.com\/jsp\/products\.jsp&quot;]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>#headerPanel >> internal:role=link[name=&quot;Products&quot;i]</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>a</value>
+      <webElementGuid>38d65fcb-aade-4640-8a94-e1442d7f0505</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>href</name>
+      <type>Main</type>
+      <value>http://www.parasoft.com/jsp/products.jsp</value>
+      <webElementGuid>d08e0ab2-a6d6-4adf-8031-f1244411376f</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Products</value>
+      <webElementGuid>9ec1b7f6-307d-4112-af48-9b580dfe4d0a</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>parent</name>
+      <type>Main</type>
+      <value>md5.v1-3e178d47b27baff87ada4b0746a8bd48</value>
+      <webElementGuid>71db168d-8232-481c-a87d-e5189fb28e42</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>//*[@class and contains(concat(' ', normalize-space(@class), ' '), ' leftmenu ')]//*[@href = 'http://www.parasoft.com/jsp/products.jsp']</value>
+      <webElementGuid>021e472a-b548-4af1-8028-94bc9bc89a1d</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//*[@class and contains(concat(' ', normalize-space(@class), ' '), ' leftmenu ')]//*[@href = 'http://www.parasoft.com/jsp/products.jsp']</value>
+      <webElementGuid>cf66642d-643b-4bc7-bd79-9265e1f5d36d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//a[@href = 'http://www.parasoft.com/jsp/products.jsp' and (text() = 'Products' or . = 'Products')]</value>
+      <webElementGuid>4f77b2b3-c682-4461-9411-16f0fbda4ba9</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

@@ -1,0 +1,106 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>input_AI  ML</name>
+   <tag></tag>
+   <elementGuidId>07231075-ee5f-4e37-938f-a4a96cce937f</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//*[@id = 'ai-ml']</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>#ai-ml</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>internal:label=&quot;AI &amp; ML&quot;i</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>input</value>
+      <webElementGuid>f66704a6-e376-41d1-b9e6-332e232f5c64</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>relative inline-block border-solid mt-[6px] border-1 border-dark300 w-[17rem] h-[17rem] cursor-pointer appearance-none rounded-[2rem] checked:bg-blue300 checked:border-dark300 before:content-['✔'] before:text-[14rem] before:text-white before:opacity-0 before:transition-opacity before:duration-200 before:absolute before:top-1/2 before:left-1/2 before:translate-x-[-50%] before:translate-y-[-50%] before:opacity-0 checked:before:opacity-100</value>
+      <webElementGuid>958b80c6-1f8e-43c4-a443-a1498ac4e5d3</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>type</name>
+      <type>Main</type>
+      <value>checkbox</value>
+      <webElementGuid>7fe63a7d-8e6b-4914-9937-12da6929008c</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>id</name>
+      <type>Main</type>
+      <value>ai-ml</value>
+      <webElementGuid>e1a96100-6ad2-4e7c-8506-eff6da3c5f43</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>name</name>
+      <type>Main</type>
+      <value>ai-ml</value>
+      <webElementGuid>a4cc5578-3042-44b9-90cf-d3171b0f333f</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>value</name>
+      <type>Main</type>
+      <value>AI &amp; ML</value>
+      <webElementGuid>281c9401-a81b-4508-8a54-777fc876a748</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>parent</name>
+      <type>Main</type>
+      <value>md5.v1-f53ceddf0f31c90bdf237839b549e9f8</value>
+      <webElementGuid>b96e5e4b-5b12-49ea-916f-a0ee9da37d70</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>//*[@id = 'ai-ml']</value>
+      <webElementGuid>0d88967f-d249-4deb-adc7-b798639bd2be</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//*[@id = 'ai-ml']</value>
+      <webElementGuid>8f1e07a4-0d43-4798-8b8b-4ba2ca17d8a1</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//input[@type = 'checkbox' and @id = 'ai-ml' and @name = 'ai-ml']</value>
+      <webElementGuid>2b8cee12-7f9e-4b4c-89c0-e75be53670f6</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

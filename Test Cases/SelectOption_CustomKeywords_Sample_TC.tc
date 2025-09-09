@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>SelectOption_CustomKeywords_Sample_TC</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>1aa9b97c-bd17-434d-aa59-d0fc8cc38d72</testCaseGuid>
+</TestCaseEntity>

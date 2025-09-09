@@ -1,0 +1,106 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>input_API Security Testing</name>
+   <tag></tag>
+   <elementGuidId>2c29174c-e0fd-4102-8d2e-caf466459365</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//*[@id = 'api-security-testing']</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>#api-security-testing</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>internal:label=&quot;API Security Testing&quot;i</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>input</value>
+      <webElementGuid>7ef7f155-8ffc-4eb2-857a-31090d384778</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>relative inline-block border-solid mt-[6px] border-1 border-dark300 w-[17rem] h-[17rem] cursor-pointer appearance-none rounded-[2rem] checked:bg-blue300 checked:border-dark300 before:content-['✔'] before:text-[14rem] before:text-white before:opacity-0 before:transition-opacity before:duration-200 before:absolute before:top-1/2 before:left-1/2 before:translate-x-[-50%] before:translate-y-[-50%] before:opacity-0 checked:before:opacity-100</value>
+      <webElementGuid>f2cada4b-0baa-400a-9e46-bf8ba009004c</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>type</name>
+      <type>Main</type>
+      <value>checkbox</value>
+      <webElementGuid>0caab708-96ba-4de0-b9a2-01de7ebf4578</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>id</name>
+      <type>Main</type>
+      <value>api-security-testing</value>
+      <webElementGuid>7be89062-76c0-48ea-b8ef-f9cb8db8902f</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>name</name>
+      <type>Main</type>
+      <value>api-security-testing</value>
+      <webElementGuid>25cd4118-1ca6-4d5d-816c-334143a79492</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>value</name>
+      <type>Main</type>
+      <value>API Security Testing</value>
+      <webElementGuid>205dd568-6235-43e7-8b4c-3b667e5e7af9</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>parent</name>
+      <type>Main</type>
+      <value>md5.v1-01ddb42e93ac8c126ca2b3411e40e576</value>
+      <webElementGuid>82a9b97a-1f38-4a05-9a4b-5ba6b6b2ae1e</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>//*[@id = 'api-security-testing']</value>
+      <webElementGuid>a2b6ddd1-bfb8-4e9e-84cd-5e822ea3d660</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//*[@id = 'api-security-testing']</value>
+      <webElementGuid>7a16ca08-d9f5-4dd2-925a-e383a53b1514</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//input[@type = 'checkbox' and @id = 'api-security-testing' and @name = 'api-security-testing']</value>
+      <webElementGuid>4b352f43-9ea4-4e8c-9aac-784cc68d2b47</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>
